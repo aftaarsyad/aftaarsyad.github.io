@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #838383;
+}
+
+#projects {
+  background-color: #838383;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div {
+  background-color: #838383;
+  width: 120px;
+  margin: 10px;
+  text-align: center;
+  font-size: x-large;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+li {
+  list-style: none;
+}
